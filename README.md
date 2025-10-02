@@ -1,10 +1,9 @@
 <!-- Header -->
-
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
-
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Build%20A%20Better%20Tomorrow!&20fontAlign=40&fontAlignY=40&color=gradient)
 
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 박준아입니다!
+
+### 🙇 안녕하세요, 백엔드를 기반으로 풀스텍 개발자로 성장해나가고 있는 박준아입니다!
 
 <!-- Body -->
 
@@ -15,13 +14,12 @@
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![socket](https://img.shields.io/badge/socket-C93CD7.svg?&style=for-the-badge&logo=socket&logoColor=white)
-
-
 
 **🛠️ Infra and Tools**
 
