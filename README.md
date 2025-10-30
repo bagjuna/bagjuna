@@ -18,6 +18,7 @@
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![socket](https://img.shields.io/badge/socket-C93CD7.svg?&style=for-the-badge&logo=socket&logoColor=white)
 ![next](https://img.shields.io/badge/Next-000000?logo=Next.js&logoColor=white&style=for-the-badge)
+![docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 
 **🛠️ Infra and Tools**
