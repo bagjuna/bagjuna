@@ -20,6 +20,11 @@
 ![next](https://img.shields.io/badge/Next-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 
 
+**📡 Tech**
+
+![redis](https://img.shields.io/badge/redis-FF4438?logo=redis&logoColor=white&style=for-the-badge)
+
+
 **🛠️ Infra and Tools**
 
 ![docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
