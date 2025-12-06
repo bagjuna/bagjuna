@@ -9,20 +9,20 @@
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-<!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
-![socket](https://img.shields.io/badge/socket-C93CD7.svg?&style=for-the-badge&logo=socket&logoColor=white)
 ![next](https://img.shields.io/badge/Next-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 
 
 **📡 Tech**
 
 ![redis](https://img.shields.io/badge/redis-FF4438?logo=redis&logoColor=white&style=for-the-badge)
+![socket](https://img.shields.io/badge/socket-C93CD7.svg?&style=for-the-badge&logo=socket&logoColor=white)
+![GitHubActions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 **🛠️ Infra and Tools**
@@ -40,5 +40,4 @@
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagjuna&layout=compact)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=is21010)](https://solved.ac/profile/is21010)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=is21010)](https://solved.ac/profile/is21010)
