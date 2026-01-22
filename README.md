@@ -12,11 +12,10 @@
 
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
-![next](https://img.shields.io/badge/Next-000000?logo=Next.js&logoColor=white&style=for-the-badge)
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+
 
 
 **📡 Tech**
